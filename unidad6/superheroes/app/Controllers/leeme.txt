@@ -1,4 +1,0 @@
-Esta carpeta tiene todos los controladores.
-Cuando la aplicación es grande y existen múltiples controladores conviene organizarlos en carpetas.
-Podriamos almacenar los controles del administrador en una carpteta admin 
-y si se crease una api podriamos tener la carpeta api para los controladores de la api.
