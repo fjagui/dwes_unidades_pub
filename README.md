@@ -1,30 +1,26 @@
-## **README.md - Prácticas de PHP.**  
-## **Administración de Sistemas Informáticos en Red.**
-## **Implantación de Aplicaciones Web.**
+## **README.md - DWES.**  
+## **Desarrollo de Aplicaciones web en Entorno Servidor.**
 ### **1. Descripción del repositorio**  
-Este repositorio contiene las prácticas de programación en **PHP** desarrolladas en el módulo de **Implantación de Aplicaciones Web** del ciclo formativo de **Administración de Sistemas Informáticos en Red (ASIR) del IES Gran Capitán**.  
+Este repositorio contiene algunas de las prácticas de programación en **PHP** desarrolladas en el módulo de **Desarrollo Web en Entorno Servidor** del ciclo formativo de **Desarrollo de Aplicaciones Web (DAW) del IES Gran Capitán**.  
 
-Estas prácticas están diseñadas para introducir y profundizar en conceptos de programación en PHP, integrándolo con tecnologías web como HTML, CSS y bases de datos.  
+Estas prácticas están diseñadas para trabajar programación en servidor utilizando PHP.  
 
 ---
 
 ### **2. Objetivos de los resultados de aprendizaje**  
 - Adquirir conocimientos básicos y avanzados de programación en PHP.  
-- Comprender la interacción entre PHP y servidores web (como Apache).  
-- Aplicar buenas prácticas en el desarrollo de aplicaciones dinámicas.  
-- Integrar bases de datos relacionales (MySQL o MariaDB) con PHP.  
-- Gestionar y documentar proyectos con herramientas como Git y GitHub.  
-
+- Manejar bases de datos   
+- Desarrollar aplicaciones utilizando el MVC
 ---
 
 ### **3. Contenido del repositorio**  
-El repositorio está organizado en carpetas, cada una correspondiente a una práctica específica:  
+El repositorio está organizado en carpetas, cada una correspondiente a una unidad
 
 | Carpeta              | Descripción                                                                 | Tema Principal                          |  
 |----------------------|-----------------------------------------------------------------------------|-----------------------------------------|  
-| `01_basics/`         | Conceptos básicos de PHP: variables, tipos de datos y estructuras de control. | Introducción a PHP                      |  
-| `02_forms/`          | Gestión de formularios en PHP: validación y métodos HTTP (GET/POST).        | PHP y Formularios                       |  
-| `03_sessions_cookies/` | Uso de sesiones y cookies para la gestión de datos persistentes.            | Autenticación y personalización         |  
+| `unidad1/`         | Conceptos básicos de PHP: variables, tipos de datos y estructuras de control. | Introducción a PHP                      |  
+| `unidad2/`          | Gestión de formularios en PHP: validación y métodos HTTP (GET/POST).        | PHP y Formularios                       |  
+| `unidad3/` | Uso de sesiones y cookies para la gestión de datos persistentes.            | Autenticación y personalización         |  
 | `04_db_integration/` | Conexión de PHP con bases de datos MySQL para CRUD (Create, Read, Update, Delete). | PHP y Bases de Datos                    |  
 | `05_final_project/`  | Proyecto final: Desarrollo de una aplicación web dinámica completa.         | Integración de conceptos aprendidos     |  
 
