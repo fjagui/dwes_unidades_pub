@@ -18,11 +18,8 @@ El repositorio está organizado en carpetas, cada una correspondiente a una unid
 
 | Carpeta              | Descripción                                                                 | Tema Principal                          |  
 |----------------------|-----------------------------------------------------------------------------|-----------------------------------------|  
-| `unidad1/`         | Conceptos básicos de PHP: variables, tipos de datos y estructuras de control. | Introducción a PHP                      |  
-| `unidad2/`          | Gestión de formularios en PHP: validación y métodos HTTP (GET/POST).        | PHP y Formularios                       |  
-| `unidad3/` | Uso de sesiones y cookies para la gestión de datos persistentes.            | Autenticación y personalización         |  
-| `04_db_integration/` | Conexión de PHP con bases de datos MySQL para CRUD (Create, Read, Update, Delete). | PHP y Bases de Datos                    |  
-| `05_final_project/`  | Proyecto final: Desarrollo de una aplicación web dinámica completa.         | Integración de conceptos aprendidos     |  
+| `unidad3/`           | Ejercicios de programación.                                                 | Introducción a PHP                      |  
+| `unidad6/`           | Aplicación Superhéroes MVC.                                                 | Bases de datos                          |  
 
 ---
 ### **4. Requisitos previos**  
@@ -36,7 +33,7 @@ Para trabajar con las prácticas de este repositorio, asegúrate de contar con l
 - **Conocimientos básicos:**  
   - Programación en HTML y CSS.  
   - Uso básico de Git y GitHub.  
-  - Nociones de bases de datos relacionales (MySQL).  
+  - Conocimientos de bases de datos relacionales (MySQL).  
 
 ---
 
@@ -56,28 +53,15 @@ Para trabajar con las prácticas de este repositorio, asegúrate de contar con l
    - Copia los archivos al directorio de tu servidor local (por ejemplo, en `htdocs` si usas XAMPP).  
    - Abre el navegador y accede al archivo principal de cada práctica:  
      ```
-     http://localhost/01_basics/index.php
+     http://localhost/. . . /index.php
      ```  
 
----
-
-### **6. Contribuir**  
-Si deseas contribuir o reportar problemas, sigue estos pasos:  
-1. Realiza un **fork** del repositorio.  
-2. Crea una nueva rama para tu mejora o corrección:  
-   ```bash
-   git checkout -b mi-mejora
-   ```  
-3. Envía un **pull request** explicando tus cambios.  
-
----
-
-### **7. Licencia**  
+**5. Licencia**  
 Este repositorio está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.  
 
 ---
 
-### **8. Contacto**  
-Para cualquier consulta, contacta con el profesor del módulo o abre un **issue** en este repositorio.  
+**6. Contacto**  
+Para cualquier consulta, contacta con el profesor del módulo.  
 
 ---
